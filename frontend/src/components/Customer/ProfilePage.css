@@ -1,0 +1,141 @@
+.profile-container {
+  position: relative;
+  max-width: 800px;
+  margin: 60px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 15px;
+  overflow: hidden; /* Ensure content stays within bounds */
+  z-index: 0; /* Ensure the content stays above the pseudo-element */
+}
+
+.profile-container::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('https://scontent.xx.fbcdn.net/v/t1.15752-9/423903785_346236468382674_4206465139016478948_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEPep9kXrh5Cr4ENfSwsGWCfb524Vts5G99vnbhW2zkb1tG8HwRsPoui38yyzA6KfMtEcXIJfhaAvwkVQCo4QF2&_nc_ohc=ZnX0igmMkfEQ7kNvgFdMKGd&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_Q7cD1QFjiisdSaDjdKlj-qjZAzcxQXBLgL366I7q9m7I8Xa9ZA&oe=6671A452');
+  background-size: cover;
+  background-position: center;
+  opacity: 0.5; /* Adjust opacity as needed */
+  z-index: -1; /* Place the pseudo-element behind the content */
+}
+
+.profile-container .content {
+  display: flex;
+  border-radius: 15px;
+  flex-direction: column;
+  position: relative;
+  z-index: 1; /* Ensure the content stays above the pseudo-element */
+}
+  
+  .profile-heading {
+    font-size: 40px;
+    margin-top: 50px;
+    margin-left: 50px;
+    color: #FFB532;
+    /* font-size: 100px; */
+    font-weight: bold;
+  }
+  
+  .profile-details {
+    margin-right: auto;
+    margin-left: auto;
+    width: 90%;
+    margin-bottom: 20px;
+    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background */
+    padding: 20px;
+    border-radius: 10px;
+    
+  }
+  
+  .profile-details p {
+    color: #31454D;
+    margin: 5px 0;
+  }
+  
+  .profile-form {
+    color: #31454D;
+    margin-top: 20px;
+    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background */
+    padding: 20px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+  }
+  
+  .profile-form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .profile-form input {
+    width: 97%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    
+  }
+  
+  .updateprofilebtn {
+    padding: 10px 20px;
+    background-color: #E6A823;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 100%;
+    margin-top: 10px;
+    text-align: center;
+  }
+
+  .profile-button{
+    padding: 10px 10px;
+    color: white;
+    border: none;
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    background-color: #E6A823;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  .profile-button:hover{
+    background-color: #c76b1f;
+    color: white;
+  }
+  .updateprofilebtn:hover {
+    background-color: #c76b1f;
+  }
+
+  .transaction-cont{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    color: #31454D;
+    margin-bottom: 20px;
+    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background */
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+  }
+
+.profile-cont{
+  display: flex;
+  flex-direction: row;
+}
+
+.alice{
+  margin-top: 25px;
+  margin-left: 59%;
+  width: 90px;
+  height: 90px;
+  border-radius: 100px;
+  margin-bottom: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}

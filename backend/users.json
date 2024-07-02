@@ -1,0 +1,283 @@
+[{
+  "_id": {
+    "$oid": "66575d43904d89d329259601"
+  },
+  "firstName": "Patricia",
+  "middleName": "Ilagan",
+  "lastName": "Vargas",
+  "userType": "customer",
+  "email": "patricia@gmail.com",
+  "password": "$2b$10$50phibqPdkgEAVs9yAuukeL749m4nFxA6jpuiNyIgKRzmYfCFxcYC",
+  "transactions": [
+    {
+      "$oid": "66576151cf1139d12ed82ed6"
+    },
+    {
+      "$oid": "6657618fcf1139d12ed82ef9"
+    },
+    {
+      "$oid": "665761accf1139d12ed82f20"
+    },
+    {
+      "$oid": "665761bfcf1139d12ed82f4f"
+    },
+    {
+      "$oid": "665761c9cf1139d12ed82f86"
+    },
+    {
+      "$oid": "665761f4cf1139d12ed82fb9"
+    },
+    {
+      "$oid": "66576203cf1139d12ed82ff6"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66575d64904d89d329259603"
+  },
+  "firstName": "Trixia Mae",
+  "middleName": "",
+  "lastName": "Banzon",
+  "userType": "customer",
+  "email": "trixia@gmail.com",
+  "password": "$2b$10$nwIXtO3TuEqU6bQTvv30pe94GVRH5umg8z3q7XgjTMA.30MCSqkui",
+  "transactions": [
+    {
+      "$oid": "66576899cf1139d12ed842cb"
+    },
+    {
+      "$oid": "665768a6cf1139d12ed842de"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66575d8e904d89d329259605"
+  },
+  "firstName": "Aubrey",
+  "middleName": "",
+  "lastName": "Audije",
+  "userType": "customer",
+  "email": "aubrey@gmail.com",
+  "password": "$2b$10$HEl5ZUJPyJ966z8hIj/o1OgWQL.Gj8kDqqMdK/tkGdIdFsud5Fscq",
+  "transactions": [
+    {
+      "$oid": "665768f2cf1139d12ed8431a"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66575d9e904d89d329259607"
+  },
+  "firstName": "Charmaine",
+  "middleName": "",
+  "lastName": "Lim",
+  "userType": "customer",
+  "email": "charmaine@gmail.com",
+  "password": "$2b$10$/CGeSsAQnADsfc.j828ijOt8SUgkCjSMIvTMdeAkX4z86Og6z6YPy",
+  "transactions": [
+    {
+      "$oid": "665768d7cf1139d12ed842fb"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66575dcb904d89d329259609"
+  },
+  "firstName": "Kathryn",
+  "middleName": "Manuel",
+  "lastName": "Bernardo",
+  "userType": "customer",
+  "email": "kathryn@gmail.com",
+  "password": "$2b$10$bVd2zxC8SFHbfVJcZGgTAuWKgPDBVrkAF59zREfGccPTKn8SlBDPi",
+  "transactions": [
+    {
+      "$oid": "66576381cf1139d12ed83296"
+    },
+    {
+      "$oid": "6657638dcf1139d12ed832b3"
+    },
+    {
+      "$oid": "665763a0cf1139d12ed832d4"
+    },
+    {
+      "$oid": "665763bfcf1139d12ed832f3"
+    },
+    {
+      "$oid": "665763dfcf1139d12ed83340"
+    },
+    {
+      "$oid": "665763edcf1139d12ed8336f"
+    },
+    {
+      "$oid": "665763facf1139d12ed833a0"
+    },
+    {
+      "$oid": "66576418cf1139d12ed833d1"
+    },
+    {
+      "$oid": "6657673ecf1139d12ed83f13"
+    },
+    {
+      "$oid": "66576747cf1139d12ed83f4e"
+    },
+    {
+      "$oid": "66576750cf1139d12ed83f8b"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66575de2904d89d32925960b"
+  },
+  "firstName": "Jennie",
+  "middleName": "",
+  "lastName": "Kim",
+  "userType": "customer",
+  "email": "jennie@gmail.com",
+  "password": "$2b$10$f0/Fji7S3gK0hasKevs4ROD/1BjB/xwdvh8l9Qft3o1FddoxPv/Y2",
+  "transactions": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66575e02904d89d32925960d"
+  },
+  "firstName": "Lisa",
+  "middleName": "",
+  "lastName": "Manoban",
+  "userType": "customer",
+  "email": "lisa@gmail.com",
+  "password": "$2b$10$68fopRtsicDtIja.bBXBgudmIrK9CEo20kptIvtO5JLlAgJ/LLfOG",
+  "transactions": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66575e1e904d89d32925960f"
+  },
+  "firstName": "Jisoo",
+  "middleName": "",
+  "lastName": "Kim",
+  "userType": "customer",
+  "email": "jisoo@gmail.com",
+  "password": "$2b$10$ilqjRHQHzdjkSePnT1P58.w7f8wTz3rK4ePf0ikw3bqKWdcyBdbR2",
+  "transactions": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66575e4e904d89d329259611"
+  },
+  "firstName": "Roseanne",
+  "middleName": "",
+  "lastName": "Park",
+  "userType": "customer",
+  "email": "roseanne@gmail.com",
+  "password": "$2b$10$Kgu.cR7SIkpW798HSMRpzemE838q1Ew8e2Sd6X10g5pOmx1aUzZEm",
+  "transactions": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66575e92904d89d329259613"
+  },
+  "firstName": "John",
+  "middleName": "",
+  "lastName": "Doe",
+  "userType": "customer",
+  "email": "john@gmail.com",
+  "password": "$2b$10$agcTKc8o/MoyZh/xLycF8epEIB38hb10LO0IFOrxXGDZ.pLBWqycy",
+  "transactions": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66575ea5904d89d329259615"
+  },
+  "firstName": "Koko",
+  "middleName": "Ally",
+  "lastName": "Winter",
+  "userType": "customer",
+  "email": "koko@gmail.com",
+  "password": "$2b$10$wNaBCFXd64xTpd3LPLa0quzc5XYhfVvaYrDYfUcyj0ScAADFgbvFK",
+  "transactions": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66575f01904d89d32925964e"
+  },
+  "firstName": "Lumpiang",
+  "middleName": "Nakabalot",
+  "lastName": "Shanghai",
+  "userType": "customer",
+  "email": "lumpiang@gmail.com",
+  "password": "$2b$10$3i0YSIA.kzBepvpYK53s2egC0GKnpSaMY3HAU6SyyKzmZmXj8vU0q",
+  "transactions": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66575f28904d89d329259650"
+  },
+  "firstName": "Hello",
+  "middleName": "",
+  "lastName": "World",
+  "userType": "customer",
+  "email": "helloworld@gmail.com",
+  "password": "$2b$10$nD7T2ZB2fSSAyh7mykqxMOgcjdKHMgjBmzhyyG5URE2XEs1hg/Peq",
+  "transactions": [
+    {
+      "$oid": "665764f4cf1139d12ed83735"
+    },
+    {
+      "$oid": "6657650ccf1139d12ed8374e"
+    },
+    {
+      "$oid": "6657653dcf1139d12ed83885"
+    },
+    {
+      "$oid": "66576553cf1139d12ed838a6"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6657602fcf1139d12ed82ed0"
+  },
+  "firstName": "Admin",
+  "middleName": "User",
+  "lastName": "User",
+  "userType": "admin",
+  "email": "admin@123.com",
+  "password": "$2b$10$YCh53yvdaUJsNk4oLdaJOem6ZYmz329im6hL4EDzdZ1nThsqLKonG",
+  "transactions": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665779fcdaa5a3734cea166d"
+  },
+  "firstName": "Maricar",
+  "middleName": "Heaven",
+  "lastName": "Banzon",
+  "userType": "customer",
+  "email": "maricar@gmail.com",
+  "password": "$2b$10$3mkapfcICzF3UxrWt7z7heJxNst/LYhHkqBigiLthKlj/NcD57Mz6",
+  "transactions": [
+    {
+      "$oid": "66577a8bdaa5a3734cea1677"
+    }
+  ],
+  "__v": 0
+}]

@@ -1,0 +1,1035 @@
+[{
+  "_id": {
+    "$oid": "66576151cf1139d12ed82ed6"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e809"
+      },
+      "quantity": 2,
+      "_id": {
+        "$oid": "66576151cf1139d12ed82ed7"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e807"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "66576151cf1139d12ed82ed8"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e80a"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "66576151cf1139d12ed82ed9"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e811"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "66576151cf1139d12ed82eda"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e80f"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "66576151cf1139d12ed82edb"
+      }
+    }
+  ],
+  "status": 1,
+  "date": {
+    "$date": "2024-05-30T17:09:37.800Z"
+  },
+  "time": "01:09:37",
+  "userId": {
+    "$oid": "66575d43904d89d329259601"
+  },
+  "email": "patricia@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6657618fcf1139d12ed82ef9"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e80f"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6657618fcf1139d12ed82efa"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e80d"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6657618fcf1139d12ed82efb"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e80a"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6657618fcf1139d12ed82efc"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e80b"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6657618fcf1139d12ed82efd"
+      }
+    }
+  ],
+  "status": 0,
+  "date": {
+    "$date": "2024-05-29T17:10:39.740Z"
+  },
+  "time": "01:10:39",
+  "userId": {
+    "$oid": "66575d43904d89d329259601"
+  },
+  "email": "patricia@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665761accf1139d12ed82f20"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e80a"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "665761accf1139d12ed82f21"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e80f"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "665761accf1139d12ed82f22"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e806"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "665761accf1139d12ed82f23"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e811"
+      },
+      "quantity": 3,
+      "_id": {
+        "$oid": "665761accf1139d12ed82f24"
+      }
+    }
+  ],
+  "status": 0,
+  "date": {
+    "$date": "2024-05-29T17:11:08.358Z"
+  },
+  "time": "01:11:08",
+  "userId": {
+    "$oid": "66575d43904d89d329259601"
+  },
+  "email": "patricia@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665761bfcf1139d12ed82f4f"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e80c"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "665761bfcf1139d12ed82f50"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e808"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "665761bfcf1139d12ed82f51"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e807"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "665761bfcf1139d12ed82f52"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e80e"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "665761bfcf1139d12ed82f53"
+      }
+    }
+  ],
+  "status": 1,
+  "date": {
+    "$date": "2024-03-10T17:11:27.202Z"
+  },
+  "time": "01:11:27",
+  "userId": {
+    "$oid": "66575d43904d89d329259601"
+  },
+  "email": "patricia@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665761c9cf1139d12ed82f86"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e811"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "665761c9cf1139d12ed82f87"
+      }
+    }
+  ],
+  "status": 2,
+  "date": {
+    "$date": "2024-05-29T17:11:37.453Z"
+  },
+  "time": "01:11:37",
+  "userId": {
+    "$oid": "66575d43904d89d329259601"
+  },
+  "email": "patricia@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665761f4cf1139d12ed82fb9"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e80f"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "665761f4cf1139d12ed82fba"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e806"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "665761f4cf1139d12ed82fbb"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e808"
+      },
+      "quantity": 4,
+      "_id": {
+        "$oid": "665761f4cf1139d12ed82fbc"
+      }
+    }
+  ],
+  "status": 1,
+  "date": {
+    "$date": "2024-05-28T17:12:20.917Z"
+  },
+  "time": "01:12:20",
+  "userId": {
+    "$oid": "66575d43904d89d329259601"
+  },
+  "email": "patricia@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66576203cf1139d12ed82ff6"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e80c"
+      },
+      "quantity": 3,
+      "_id": {
+        "$oid": "66576203cf1139d12ed82ff7"
+      }
+    }
+  ],
+  "status": 2,
+  "date": {
+    "$date": "2023-05-29T17:12:35.591Z"
+  },
+  "time": "01:12:35",
+  "userId": {
+    "$oid": "66575d43904d89d329259601"
+  },
+  "email": "patricia@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66576381cf1139d12ed83296"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e808"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "66576381cf1139d12ed83297"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e811"
+      },
+      "quantity": 2,
+      "_id": {
+        "$oid": "66576381cf1139d12ed83298"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e80f"
+      },
+      "quantity": 2,
+      "_id": {
+        "$oid": "66576381cf1139d12ed83299"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e80b"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "66576381cf1139d12ed8329a"
+      }
+    }
+  ],
+  "status": 1,
+  "date": {
+    "$date": "2023-07-01T17:18:57.647Z"
+  },
+  "time": "01:18:57",
+  "userId": {
+    "$oid": "66575dcb904d89d329259609"
+  },
+  "email": "kathryn@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6657638dcf1139d12ed832b3"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e80c"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6657638dcf1139d12ed832b4"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e809"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6657638dcf1139d12ed832b5"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e808"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6657638dcf1139d12ed832b6"
+      }
+    }
+  ],
+  "status": 0,
+  "date": {
+    "$date": "2024-06-29T17:19:09.161Z"
+  },
+  "time": "01:19:09",
+  "userId": {
+    "$oid": "66575dcb904d89d329259609"
+  },
+  "email": "kathryn@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665763a0cf1139d12ed832d4"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e80f"
+      },
+      "quantity": 3,
+      "_id": {
+        "$oid": "665763a0cf1139d12ed832d5"
+      }
+    }
+  ],
+  "status": 1,
+  "date": {
+    "$date": "2024-05-10T17:19:28.460Z"
+  },
+  "time": "01:19:28",
+  "userId": {
+    "$oid": "66575dcb904d89d329259609"
+  },
+  "email": "kathryn@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665763bfcf1139d12ed832f3"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e808"
+      },
+      "quantity": 2,
+      "_id": {
+        "$oid": "665763bfcf1139d12ed832f4"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e80c"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "665763bfcf1139d12ed832f5"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e80f"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "665763bfcf1139d12ed832f6"
+      }
+    }
+  ],
+  "status": 0,
+  "date": {
+    "$date": "2024-05-29T17:19:59.132Z"
+  },
+  "time": "01:19:59",
+  "userId": {
+    "$oid": "66575dcb904d89d329259609"
+  },
+  "email": "kathryn@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665763dfcf1139d12ed83340"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e80c"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "665763dfcf1139d12ed83341"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e808"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "665763dfcf1139d12ed83342"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e810"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "665763dfcf1139d12ed83343"
+      }
+    }
+  ],
+  "status": 2,
+  "date": {
+    "$date": "2024-08-29T17:20:31.784Z"
+  },
+  "time": "01:20:31",
+  "userId": {
+    "$oid": "66575dcb904d89d329259609"
+  },
+  "email": "kathryn@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665763edcf1139d12ed8336f"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e811"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "665763edcf1139d12ed83370"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e80d"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "665763edcf1139d12ed83371"
+      }
+    }
+  ],
+  "status": 1,
+  "date": {
+    "$date": "2024-05-10T17:20:45.330Z"
+  },
+  "time": "01:20:45",
+  "userId": {
+    "$oid": "66575dcb904d89d329259609"
+  },
+  "email": "kathryn@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665763facf1139d12ed833a0"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e80f"
+      },
+      "quantity": 2,
+      "_id": {
+        "$oid": "665763facf1139d12ed833a1"
+      }
+    }
+  ],
+  "status": 0,
+  "date": {
+    "$date": "2024-05-10T17:20:58.772Z"
+  },
+  "time": "01:20:58",
+  "userId": {
+    "$oid": "66575dcb904d89d329259609"
+  },
+  "email": "kathryn@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66576418cf1139d12ed833d1"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e80c"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "66576418cf1139d12ed833d2"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e80f"
+      },
+      "quantity": 2,
+      "_id": {
+        "$oid": "66576418cf1139d12ed833d3"
+      }
+    }
+  ],
+  "status": 2,
+  "date": {
+    "$date": "2024-05-11T17:21:28.084Z"
+  },
+  "time": "01:21:28",
+  "userId": {
+    "$oid": "66575dcb904d89d329259609"
+  },
+  "email": "kathryn@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665764f4cf1139d12ed83735"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e80f"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "665764f4cf1139d12ed83736"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e811"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "665764f4cf1139d12ed83737"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e80c"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "665764f4cf1139d12ed83738"
+      }
+    }
+  ],
+  "status": 2,
+  "date": {
+    "$date": "2024-05-29T17:25:08.729Z"
+  },
+  "time": "01:25:08",
+  "userId": {
+    "$oid": "66575f28904d89d329259650"
+  },
+  "email": "helloworld@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6657650ccf1139d12ed8374e"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e806"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6657650ccf1139d12ed8374f"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e80a"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6657650ccf1139d12ed83750"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e807"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6657650ccf1139d12ed83751"
+      }
+    }
+  ],
+  "status": 1,
+  "date": {
+    "$date": "2024-05-10T17:25:32.734Z"
+  },
+  "time": "01:25:32",
+  "userId": {
+    "$oid": "66575f28904d89d329259650"
+  },
+  "email": "helloworld@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6657653dcf1139d12ed83885"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e80f"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6657653dcf1139d12ed83886"
+      }
+    }
+  ],
+  "status": 0,
+  "date": {
+    "$date": "2023-05-25T17:26:21.496Z"
+  },
+  "time": "01:26:21",
+  "userId": {
+    "$oid": "66575f28904d89d329259650"
+  },
+  "email": "helloworld@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66576553cf1139d12ed838a6"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e811"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "66576553cf1139d12ed838a7"
+      }
+    }
+  ],
+  "status": 1,
+  "date": {
+    "$date": "2023-06-07T17:26:43.216Z"
+  },
+  "time": "01:26:43",
+  "userId": {
+    "$oid": "66575f28904d89d329259650"
+  },
+  "email": "helloworld@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6657673ecf1139d12ed83f13"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e810"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6657673ecf1139d12ed83f14"
+      }
+    }
+  ],
+  "status": 1,
+  "date": {
+    "$date": "2024-03-08T17:34:54.051Z"
+  },
+  "time": "01:34:54",
+  "userId": {
+    "$oid": "66575dcb904d89d329259609"
+  },
+  "email": "kathryn@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66576747cf1139d12ed83f4e"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e80c"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "66576747cf1139d12ed83f4f"
+      }
+    }
+  ],
+  "status": 0,
+  "date": {
+    "$date": "2023-05-29T17:35:03.863Z"
+  },
+  "time": "01:35:03",
+  "userId": {
+    "$oid": "66575dcb904d89d329259609"
+  },
+  "email": "kathryn@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66576750cf1139d12ed83f8b"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e808"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "66576750cf1139d12ed83f8c"
+      }
+    }
+  ],
+  "status": 0,
+  "date": {
+    "$date": "2023-05-29T17:35:12.465Z"
+  },
+  "time": "01:35:12",
+  "userId": {
+    "$oid": "66575dcb904d89d329259609"
+  },
+  "email": "kathryn@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66576899cf1139d12ed842cb"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e811"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "66576899cf1139d12ed842cc"
+      }
+    }
+  ],
+  "status": 1,
+  "date": {
+    "$date": "2024-05-06T17:40:41.261Z"
+  },
+  "time": "01:40:41",
+  "userId": {
+    "$oid": "66575d64904d89d329259603"
+  },
+  "email": "trixia@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665768a6cf1139d12ed842de"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e80d"
+      },
+      "quantity": 2,
+      "_id": {
+        "$oid": "665768a6cf1139d12ed842df"
+      }
+    }
+  ],
+  "status": 1,
+  "date": {
+    "$date": "2024-04-10T17:40:54.345Z"
+  },
+  "time": "01:40:54",
+  "userId": {
+    "$oid": "66575d64904d89d329259603"
+  },
+  "email": "trixia@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665768d7cf1139d12ed842fb"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e80d"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "665768d7cf1139d12ed842fc"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e80b"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "665768d7cf1139d12ed842fd"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e808"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "665768d7cf1139d12ed842fe"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e80c"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "665768d7cf1139d12ed842ff"
+      }
+    }
+  ],
+  "status": 1,
+  "date": {
+    "$date": "2024-06-10T17:41:43.251Z"
+  },
+  "time": "01:41:43",
+  "userId": {
+    "$oid": "66575d9e904d89d329259607"
+  },
+  "email": "charmaine@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665768f2cf1139d12ed8431a"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e80c"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "665768f2cf1139d12ed8431b"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e811"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "665768f2cf1139d12ed8431c"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e80f"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "665768f2cf1139d12ed8431d"
+      }
+    }
+  ],
+  "status": 1,
+  "date": {
+    "$date": "2022-02-10T17:42:10.552Z"
+  },
+  "time": "01:42:10",
+  "userId": {
+    "$oid": "66575d8e904d89d329259605"
+  },
+  "email": "aubrey@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66577a8bdaa5a3734cea1677"
+  },
+  "products": [
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e80a"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "66577a8bdaa5a3734cea1678"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e808"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "66577a8bdaa5a3734cea1679"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "664e1b26a53eeeac8a00e80f"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "66577a8bdaa5a3734cea167a"
+      }
+    }
+  ],
+  "status": 1,
+  "date": {
+    "$date": "2024-05-29T18:57:15.013Z"
+  },
+  "time": "02:57:15",
+  "userId": {
+    "$oid": "665779fcdaa5a3734cea166d"
+  },
+  "email": "maricar@gmail.com",
+  "__v": 0
+}]

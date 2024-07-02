@@ -1,0 +1,144 @@
+[{
+  "_id": {
+    "$oid": "664e1b26a53eeeac8a00e806"
+  },
+  "productImage": "https://www.shutterstock.com/image-vector/tall-vanilla-cows-milk-carton-600nw-2016254093.jpg",
+  "productName": "Cow Milk",
+  "productDescription": "Fresh so much",
+  "productType": 3,
+  "productQuantity": 6,
+  "productPrice": 100
+},
+{
+  "_id": {
+    "$oid": "664e1b26a53eeeac8a00e807"
+  },
+  "productImage": "https://t3.ftcdn.net/jpg/00/79/38/86/360_F_79388625_L0C1l1H6EdFbAP0vsl6gkiESVptWFiaQ.jpg",
+  "productName": "Carrots",
+  "productDescription": "Ripe",
+  "productType": 2,
+  "productQuantity": 1,
+  "productPrice": 25.5
+},
+{
+  "_id": {
+    "$oid": "664e1b26a53eeeac8a00e808"
+  },
+  "productImage": "https://static.vecteezy.com/system/resources/previews/021/964/645/original/corn-fruit-cartoon-colored-clipart-illustration-free-vector.jpg",
+  "productName": "Corn",
+  "productDescription": "Sweet",
+  "productType": 1,
+  "productQuantity": 7,
+  "productPrice": 15
+},
+{
+  "_id": {
+    "$oid": "664e1b26a53eeeac8a00e809"
+  },
+  "productImage": "https://cdn.vectorstock.com/i/500p/05/44/one-fried-egg-symbol-healthy-food-vector-32330544.jpg",
+  "productName": "Egg",
+  "productDescription": "Luto na",
+  "productType": 4,
+  "productQuantity": 7,
+  "productPrice": 10
+},
+{
+  "_id": {
+    "$oid": "664e1b26a53eeeac8a00e80a"
+  },
+  "productImage": "https://media.istockphoto.com/id/1068867872/vector/potato.jpg?s=612x612&w=0&k=20&c=8o-CDz84gEBTX1faiH4-_v-X4C-1f3dDW4FXhEvk09U=",
+  "productName": "Potato",
+  "productDescription": "Favorite ni Sara",
+  "productType": 1,
+  "productQuantity": 5,
+  "productPrice": 50
+},
+{
+  "_id": {
+    "$oid": "664e1b26a53eeeac8a00e80b"
+  },
+  "productImage": "https://img.freepik.com/premium-vector/delicious-mango_642458-531.jpg",
+  "productName": "Mango",
+  "productDescription": "Hinog",
+  "productType": 2,
+  "productQuantity": 10,
+  "productPrice": 30
+},
+{
+  "_id": {
+    "$oid": "664e1b26a53eeeac8a00e80c"
+  },
+  "productImage": "https://media.istockphoto.com/id/506670795/vector/red-apple.jpg?s=612x612&w=0&k=20&c=lF9vQ-kQPv3StsSFND4Okt1yqEO86q2XWFECgn0AqWU=",
+  "productName": "Apple",
+  "productDescription": "May 0.5",
+  "productType": 2,
+  "productQuantity": 9,
+  "productPrice": 0.5
+},
+{
+  "_id": {
+    "$oid": "664e1b26a53eeeac8a00e80d"
+  },
+  "productImage": "https://img.freepik.com/free-vector/red-crab-sea-animal-cartoon-sticker_1308-66275.jpg",
+  "productName": "Crab",
+  "productDescription": "bff ni Ariel",
+  "productType": 5,
+  "productQuantity": 5,
+  "productPrice": 350
+},
+{
+  "_id": {
+    "$oid": "664e1b26a53eeeac8a00e80e"
+  },
+  "productImage": "https://st.depositphotos.com/1526816/2883/v/450/depositphotos_28832495-stock-illustration-a-nemo-fish.jpg",
+  "productName": "Fish",
+  "productDescription": "Nawawala",
+  "productType": 5,
+  "productQuantity": 4,
+  "productPrice": 150
+},
+{
+  "_id": {
+    "$oid": "664e1b26a53eeeac8a00e80f"
+  },
+  "productImage": "https://t3.ftcdn.net/jpg/00/88/18/34/360_F_88183485_r6Qv1cCYF0cHXHBVR2uMT659RV92XDKF.jpg",
+  "productName": "Shrimp",
+  "productDescription": "ihh hipon",
+  "productType": 5,
+  "productQuantity": 135,
+  "productPrice": 200
+},
+{
+  "_id": {
+    "$oid": "664e1b26a53eeeac8a00e810"
+  },
+  "productImage": "https://img.freepik.com/free-vector/simple-cheese-isolated-cartoon_1308-124064.jpg",
+  "productName": "Cheese",
+  "productDescription": "Fav ng mabait",
+  "productType": 1,
+  "productQuantity": 9,
+  "productPrice": 35
+},
+{
+  "_id": {
+    "$oid": "664e1b26a53eeeac8a00e811"
+  },
+  "productImage": "https://t3.ftcdn.net/jpg/01/08/31/46/360_F_108314667_DjL19U4FrsH9Ka7g048s5agnVi5HBH9E.jpg",
+  "productName": "Chicken",
+  "productDescription": "Tiktilaokkk",
+  "productType": 4,
+  "productQuantity": 10,
+  "productPrice": 500
+},
+{
+  "_id": {
+    "$oid": "66577b87daa5a3734cea17d6"
+  },
+  "productImage": "https://th.bing.com/th/id/R.e86902a0bcbc51ae120dd2587c9f2cba?rik=CkPD%2ffMz4SKnBA&riu=http%3a%2f%2fclipartix.com%2fwp-content%2fuploads%2f2017%2f05%2fHd-lettuce-leaf-clipart-cdr.jpg&ehk=P8G3vaJkELHKsZmRMexvpQ%2bFW7Xx%2ffFjYzyDy9036LM%3d&risl=&pid=ImgRaw&r=0",
+  "productName": "Lettuce",
+  "productDescription": "Berde",
+  "productType": 2,
+  "productQuantity": 15,
+  "productPrice": 25,
+  "__v": 0
+}]
